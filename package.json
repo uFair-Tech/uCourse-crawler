@@ -1,0 +1,19 @@
+{
+  "name": "ucourse-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "course.js",
+  "scripts": {
+    "start": "node course.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "consola": "^2.14.0",
+    "fs-extra": "^9.0.1",
+    "mongoose": "^5.9.20",
+    "prompts": "^2.3.2",
+    "puppeteer": "^4.0.1"
+  }
+}
